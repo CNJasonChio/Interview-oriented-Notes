@@ -1,12 +1,16 @@
 # C++基础问题
 
+### 面经问题汇总
+
 ### 注意事项
+
+### 亿点点细节
 
 ### 常用方法
 
 ### C++结构体
 
-### C++类的六大函数
+### [C++类的六大函数](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/C%2B%2B%E7%B1%BB%E7%9A%84%E5%85%AD%E5%A4%A7%E5%87%BD%E6%95%B0.md)
 
 1. 构造
 2. 析构
@@ -34,3 +38,6 @@
 ### 封装、继承、多态
 
 ### C++11的新特性
+
+### bitset
+
