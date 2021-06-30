@@ -1,10 +1,10 @@
 # C++基础问题
 
-### 面经问题汇总
+### [面经问题汇总](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)
 
-### 亿点点细节
+### [亿点点细节](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/2.%20%E4%BA%BF%E7%82%B9%E7%82%B9%E7%BB%86%E8%8A%82.md)
 
-### 常用方法或函数
+### [常用方法或函数](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/3.%20%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E6%88%96%E5%87%BD%E6%95%B0.md)
 
 ### C++结构体
 
