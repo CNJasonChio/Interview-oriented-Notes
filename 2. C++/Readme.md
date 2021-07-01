@@ -8,7 +8,7 @@
 
 ### [C++结构体](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/4.%20C%2B%2B%E7%BB%93%E6%9E%84%E4%BD%93.md)
 
-### [C++类的六大函数](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/C%2B%2B%E7%B1%BB%E7%9A%84%E5%85%AD%E5%A4%A7%E5%87%BD%E6%95%B0.md)
+### [C++类的六大函数]([Interview-oriented-Notes/5. C++类的六大函数.md at master · CNJasonChio/Interview-oriented-Notes (github.com)](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2. C%2B%2B/5. C%2B%2B类的六大函数.md))
 
 1. 构造
 2. 析构
@@ -21,11 +21,8 @@
 
 ### [STL容器](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/7.%20STL%E5%AE%B9%E5%99%A8.md)
 
-#### bitset
-
-
-
-#### priority_queue
+1. bitset
+2. priority_queue
 
 ### [智能指针](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/8.%20%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88.md)
 
