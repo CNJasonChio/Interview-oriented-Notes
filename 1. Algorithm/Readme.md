@@ -2,7 +2,14 @@
 
 ## 目录
 
-[TOC]
+1. [十大排序算法](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/1.%20%E5%8D%81%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
+2. [进制转换类题目](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/2.%20%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.md)
+3. 数组
+4. 链表
+5. [二叉树](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1. Algorithm/5. 二叉树.md)
+6. B 树
+7. 哈希表
+8. [摩尔投票算法](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1. Algorithm/8. 摩尔投票算法.md)
 
 ## [十大排序算法](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/1.%20%E5%8D%81%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
 
