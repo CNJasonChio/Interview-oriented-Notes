@@ -2,31 +2,19 @@
 
 ### 十大排序算法
 
-#### 插入排序法
-
 ##### 直接插入排序
 
-
-
 ##### 希尔排序
-
-#### 交换排序法
 
 ##### 冒泡排序
 
 ##### 快速排序
 
-#### 选择排序法
-
 ##### 直接选择排序
 
 ##### 堆排序
 
-#### 归并排序法
-
 ##### 归并排序
-
-#### 分布排序法
 
 ##### 计数排序
 
@@ -37,7 +25,7 @@
 #### 总结
 
 | 排序算法 | 平均时间复杂度 | 最好情况   | 最坏情况   | 空间复杂度 | 稳定性   |
-| -------- | :------------: | ---------- | ---------- | ---------- | -------- |
+| :------- | :------------: | :--------- | :--------- | :--------- | :------- |
 | 冒泡排序 |     O(n^2)     | O(n)       | O(n^2)     | O(1)       | 稳定     |
 | 插入排序 |     O(n^2)     | O(n)       | O(n^2)     | O(1)       | 稳定     |
 | 希尔排序 |    O(n^1.3)    | O(n)       | O(n^2)     | O(1)       | 不稳定   |
@@ -52,12 +40,9 @@
 - n -- 数据规模
 - k -- “桶的个数
 
-#### 参考链接
+### 进制转换类题目
 
-1. [图解大顶堆的构建、排序过程 - 小黑a电脑 (xiaoheidiannao.com)](https://www.xiaoheidiannao.com/7436.html)
-2. [图解排序算法(三)之堆排序 - dreamcatcher-cx - 博客园 (cnblogs.com)](https://www.cnblogs.com/chengxiao/p/6129630.html)
-
-### 数组
+### 数组	
 
 #### 双指针（快慢指针）
 
@@ -94,95 +79,19 @@
 
 三者以一种统一的框架进行编写：
 
-1. 统一用current指针开启循环，并进行遍历；
+1. 统一用`current`指针开启循环，并进行遍历；
 2. 统一循环结束条件：`while(!stk.empty() || current!=nullptr)`;
 
-##### 前序遍历
+##### 前序遍历和中序遍历
 
-**中左右**
-
-```c++
-std::vector<int> BinTreeTraversal::PostorderTraversal(TreeNode* root){
-    if(root==nullptr)
-        return {};
-    std::vector<int> result;
-    std::stack<int> stk;
-
-    TreeNode* current = root;
-    while(!stk.empty() || current!=nullptr){
-        while(current!=nullptr){   
-            result.push_back(current->val);	// 先将访问到的节点放到result中，再入栈
-            stk.push(current);	            // 中
-            current = current->left;		// 左
-        }
-        current = stk.top();
-        stk.pop();
-        // 右
-        current = current ->right;
-    }
-    return result;
-}
-```
-
-##### 中序遍历
-
-**左中右**
-
-```c++
-std::vector<int> BinTreeTraversal::PostorderTraversal(TreeNode* root){
-    if(root==nullptr)
-        return {};
-    std::vector<int> result;
-    std::stack<int> stk;
-    TreeNode* current = root;
-    while(!stk.empty() || current!=nullptr){
-        while(current!=nullptr){
-            stk.push(current);
-            current = current->left;	// 左
-        }
-        current = stk.top();        	// 中
-        stk.pop();
-        result.push_back(current->val);
-        current = current ->right;		// 右
-    }
-    return result;
-}
-```
+只是单纯的处理节点的位置不同。
 
 ##### 后序遍历
 
 **左右中**
 
-- 增加了last节点防止因右节点重复访问而陷入死循环；
+- 增加了`last`节点防止因右节点重复访问而陷入死循环；
 - **节点访问过后要将其赋为空指针，开启下一次循环；**
-
-```c++
-std::vector<int> BinTreeTraversal::PostorderTraversal(TreeNode* root){
-    if(root==nullptr)
-        return {};
-    std::vector<int> result;
-    std::stack<int> stk;
-    TreeNode* current = root, last = nullptr;
-    while(!stk.empty() || current!=nullptr){
-        while(current!=nullptr){
-            stk.push(current);
-            current = current->left;	// 左
-        }
-        current = stk.top();        	// 仅取栈顶，而不推出
-        // 右节点不为空且上没有访问过
-        if(current->right!=nullptr && last != current->right){
-            current = current->right;            // 右
-        }
-        else{
-            result.push_back(current->val);		// 中
-            stk.pop();
-            last = current;		// 记录最近访问过的节点
-            current = nullptr;	// current此时是叶子节点，赋空开启下一次循环
-        }
-    }
-    return result;
-}
-```
 
 #### 二叉搜索树
 
@@ -214,3 +123,5 @@ std::vector<int> BinTreeTraversal::PostorderTraversal(TreeNode* root){
 
 
 ##### 底层实现
+
+###  摩尔投票算法
