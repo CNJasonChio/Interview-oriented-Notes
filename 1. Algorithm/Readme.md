@@ -10,6 +10,8 @@
 6. B 树
 7. 哈希表
 8. [摩尔投票算法](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/8.%20%E6%91%A9%E5%B0%94%E6%8A%95%E7%A5%A8%E7%AE%97%E6%B3%95.md)
+9. Top K 问题
+10. 前缀和
 
 ### [十大排序算法](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/1.%20%E5%8D%81%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
 
@@ -123,3 +125,6 @@
 ###  [摩尔投票算法](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/8.%20%E6%91%A9%E5%B0%94%E6%8A%95%E7%A5%A8%E7%AE%97%E6%B3%95.md)
 
 ### 前缀和
+
+### Top K 问题
+
