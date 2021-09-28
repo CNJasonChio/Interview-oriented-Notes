@@ -10,7 +10,7 @@
 - [ ] 6. STL 分配器
 - [ ] 7. 参考链接
 
-<img src="http://image.961110.xyz/images/2021/07/15/STL3633cba5347a0f6c.png" alt="STL六大组件" style="zoom:50%;" />
+<img src="https://images.961110.xyz/images/2021/09/27/STL.png" alt="STL六大组件" style="zoom:50%;" />
 
 ## STL
 
