@@ -1,12 +1,12 @@
 # call_once
-
 ## 目录 or TODO
-
+- [ ] 1.让任务只执行一次
+- [ ] 2.参考链接
 ## 正文
 
-### 让任务只执行一次
+### 1. 让任务只执行一次
 
-#### 函数定义
+#### 1.1. 函数定义
 
 使用头文件 <mutex> 中的 `std::call_once()`，确保函数在多线程环境下只被执行一次
 
@@ -20,7 +20,7 @@ void call_once( std::once_flag& flag, Callable&& f, Args&&... args );
 - f：回调函数，可以传递一个有名函数地址，也可以指定一个匿名函数
 - args：作为实参传递给回调函数
 
-#### 使用方法
+#### 1.2. 使用方法
 
 ```c++
 #include <iostream>
@@ -59,7 +59,7 @@ do_something() function num = 2
 do_something() function num = 3
 ```
 
-### 参考链接
+### 2. 参考链接
 
 1. [call_once](https://subingwen.cn/cpp/call_once/)
 
