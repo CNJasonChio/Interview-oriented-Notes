@@ -16,5 +16,5 @@
 6. [面经](https://github.com/CNJasonChio/Interview-oriented-Notes/tree/master/6.%20Interview-experience)
 7. [Linux](https://github.com/CNJasonChio/Interview-oriented-Notes/tree/master/7.%20Linux)
 8. [其他](https://github.com/CNJasonChio/Interview-oriented-Notes/tree/master/8.%20Other)
-9. 一些其他优秀博主分享的优质内容
+9. [一些其他优秀博主分享的优质内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/9.%20%E4%B8%80%E4%BA%9B%E5%85%B6%E4%BB%96%E4%BC%98%E7%A7%80%E5%8D%9A%E4%B8%BB%E5%88%86%E4%BA%AB%E7%9A%84%E4%BC%98%E8%B4%A8%E5%86%85%E5%AE%B9/Readme.md)
 

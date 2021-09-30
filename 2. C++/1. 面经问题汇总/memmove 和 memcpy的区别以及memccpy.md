@@ -1,12 +1,9 @@
 # memmove 和 memcpy的区别以及memccpy
-
 ## 目录 or TODO
-
-- [x] 1. memcpy
-- [x] 2. memmove
-- [x] 3. memccpy
-- [x] 4. 参考链接
-
+- [ ] 1.memcpy
+- [ ] 2.memmove
+- [ ] 3.memccpy
+- [ ] 4.参考链接
 ## 正文
 
 ### 1. memcpy
