@@ -1,24 +1,25 @@
-# 面经问题汇总——基本概念
+# 面经问题汇总——C++特性
+
 ## 目录 or TODO
-- [ ] 1.C++ 内存布局
-- [ ] 2.C++中堆和栈的区别
-- [ ] 3.C++自由存储区以及和堆的区别
-- [ ] 4.C++对象的内存布局
+- [x] 1.C++ 内存布局
+- [x] 2.C++中堆和栈的区别
+- [x] 3.C++自由存储区以及和堆的区别
+- [x] 4.C++对象的内存布局
 - [ ] 5.菱形继承
-- [ ] 6.虚函数、纯虚函数、虚函数表以及它们的应用
-- [ ] 7.为什么构造函数不能虚拟化
-- [ ] 8.虚析构，什么时候析构函数定义为虚函数
-- [ ] 9.构造函数和析构函数可否抛出异常，什么情况会引起内存泄漏
-- [ ] 10.智能指针
-- [ ] 11.lambda表达式
+- [x] 6.虚函数、纯虚函数、虚函数表以及它们的应用
+- [x] 7.为什么构造函数不能虚拟化
+- [x] 8.虚析构，什么时候析构函数定义为虚函数
+- [x] 9.构造函数和析构函数可否抛出异常，什么情况会引起内存泄漏
+- [x] 10.智能指针
+- [x] 11.lambda表达式
 - [ ] 12.类型转换
-- [ ] 13.多态是如何实现
+- [x] 13.多态是如何实现
 - [ ] 14.泛型编程的实现原理
-- [ ] 15.重载、重写（覆盖）、重定义（隐藏）
-- [ ] 16.重载的底层实现
-- [ ] 17.左值和右值
+- [x] 15.重载、重写（覆盖）、重定义（隐藏）
+- [x] 16.重载的底层实现
+- [x] 17.左值和右值
 - [ ] 18.C++11新特性有哪些
-- [ ] 19.深拷贝和浅拷贝
+- [x] 19.深拷贝和浅拷贝
 ## 正文
 
 ### 1. C++ 内存布局
@@ -183,15 +184,15 @@ C++标准指明析构函数不能同时也不应该抛出异常。
 
 ### 10. 智能指针
 
-[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/2.%20C%2B%2B/8.%20%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88.md)
+[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/5.%20%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88.md)
 
 ### 11. lambda表达式
 
-详细信息
+[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/9.%20C%2B%2B11%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7/15.%20lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 
 ### 12. 类型转换
 
-详细信息
+[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/6.%20%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
 ### 13. 多态是如何实现
 
@@ -248,7 +249,7 @@ C++ 命名倾轧的函数是无法被 C 语言调用的。C++ 的函数必须是
 
 ### 17. 左值和右值
 
-[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/2.%20C%2B%2B/12.%20%E5%B7%A6%E5%80%BC%E5%92%8C%E5%8F%B3%E5%80%BC.md)
+[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/12.%20%E5%B7%A6%E5%80%BC%E5%92%8C%E5%8F%B3%E5%80%BC.md)
 
 ### 18. C++11新特性有哪些
 
