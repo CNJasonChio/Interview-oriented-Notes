@@ -52,25 +52,25 @@
 
 ### 8. 封装、继承、多态
 
-详细内容
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/2.%20C%2B%2B/8.%20%E5%B0%81%E8%A3%85%E3%80%81%E7%BB%A7%E6%89%BF%E3%80%81%E5%A4%9A%E6%80%81.md)
 
 ### 9. C++11的新特性
 
-详细内容
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/2.%20C%2B%2B/9.%20C%2B%2B11%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md)
 
 ### 10. 一些关键字梳理
 
-详细内容
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/2.%20C%2B%2B/10.%20%E4%B8%80%E4%BA%9B%E5%85%B3%E9%94%AE%E5%AD%97%E6%A2%B3%E7%90%86.md)
 
 ### 11. OJ在线编程常见输入输出
 
-详细内容
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/2.%20C%2B%2B/11.%20OJ%E5%9C%A8%E7%BA%BF%E7%BC%96%E7%A8%8B%E5%B8%B8%E8%A7%81%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.md)
 
 ### 12. 多线程
 
-详细内容
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/2.%20C%2B%2B/12.%20%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
 
 ### 13. STL六大组件
 
-详细内容
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/2.%20C%2B%2B/13.%20STL%E5%85%AD%E5%A4%A7%E7%BB%84%E4%BB%B6.md)
 

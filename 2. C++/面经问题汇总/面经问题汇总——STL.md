@@ -4,13 +4,13 @@
 - [ ] 2.常用容器
 - [ ] 3.map和unorder_map有哪些区别,map为什么是log n的查询和修改时间
 - [ ] 4.map中红黑树最长路径和最短路径的差值
-- [ ] 5.哈希表如何实现、哈希冲突
+- [x] 5.哈希表如何实现、哈希冲突
 - [ ] 6.模板函数
-- [ ] 7.vector和list区别
-- [ ] 8.resize和reserve的区别
-- [ ] 9.vector中erase和remove
-- [ ] 10.vector内存管理
-- [ ] 11.vector 迭代器失效
+- [x] 7.vector和list区别
+- [x] 8.resize和reserve的区别
+- [x] 9.vector中erase和remove
+- [x] 10.vector内存管理
+- [ ] 11.vector迭代器失效
 - [ ] 12.STL中Set中存储一个类对象 如何设计？
 - [ ] 13.双向queue的实现原理
 ## 正文
@@ -95,7 +95,7 @@ vec.erase(remove(vec.begin(), vec.end(), x), vec.end());
 
 [详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/vector%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
 
-### 11. vector 迭代器失效
+### 11. vector迭代器失效
 
 1. 详细作返回的迭代器肯定失效。
 2. 当插入(push_back)一个元素后，capacity返回值与没有插入元素之前相比有改变，则需要重新加载整个容器，此时begin和end操作返回的迭代器都会失效。

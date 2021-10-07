@@ -1,8 +1,8 @@
 # C++结构体
 ## 目录 or TODO
-- [ ] 1.总览
-- [ ] 2.C中的struct与C++中struct的区别
-- [ ] 3.C++中struct与class的区别
+- [x] 1.总览
+- [x] 2.C中的struct与C++中struct的区别
+- [x] 3.C++中struct与class的区别
 ## 正文
 
 ### 1. 总览

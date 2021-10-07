@@ -1,6 +1,6 @@
 # C++多线程
 ## 目录 or TODO
-- [ ] 1.thread类
+- [x] 1.thread类
 ## 正文
 
 ### 1. thread类

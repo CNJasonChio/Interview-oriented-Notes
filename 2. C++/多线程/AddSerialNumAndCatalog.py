@@ -185,7 +185,7 @@ def handle_toc_lines(line):
     if line.strip() == '':
         return
 
-    result = re.match("(?P<check>\-\s\[[\sx]\]\s)(?P<num>[0-9]+\.)\s(?P<content>.*)", line)
+    result = re.match("(?P<check>\-\s\[[\sx]\]\s)(?P<num>[0-9]+\.)(?P<content>.*)", line)
     if result is not None:
         content = result.group('content')
         check = result.group('check')

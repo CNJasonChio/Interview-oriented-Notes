@@ -1,16 +1,17 @@
 # 数据结构和算法
 ## 目录 or TODO
 - [ ] 1.十大排序算法
-- [ ] 2.进制转换类题目
+- [x] 2.进制转换类题目
 - [ ] 3.数组	
 - [ ] 4.链表
 - [ ] 5.二叉树
 - [ ] 6.B 树
-- [ ] 7.哈希表
-- [ ] 8.摩尔投票算法
+- [x] 7.哈希表
+- [x] 8.摩尔投票算法
 - [ ] 9.前缀和
-- [ ] 10.Top K 问题
+- [x] 10.Top K 问题
 - [ ] 11.优先队列应用
+- [ ] 12.大量数据的处理
 ## 正文
 
 ### 1. 十大排序算法
@@ -115,11 +116,11 @@
 
 #### 7.2. 底层原理
 
-
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/%E5%93%88%E5%B8%8C%E8%A1%A8%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E3%80%81%E5%93%88%E5%B8%8C%E5%86%B2%E7%AA%81.md)
 
 #### 7.3. 哈希碰撞的解决方法
 
-
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/%E5%93%88%E5%B8%8C%E8%A1%A8%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E3%80%81%E5%93%88%E5%B8%8C%E5%86%B2%E7%AA%81.md)
 
 ### 8.  摩尔投票算法
 
@@ -127,15 +128,17 @@
 
 ### 9. 前缀和
 
-详细内容
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/10.%20%E5%89%8D%E7%BC%80%E5%92%8C.md)
 
 ### 10. Top K 问题
 
-详细内容
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/1.%20Algorithm/9.%20Top%20K%20%E9%97%AE%E9%A2%98.md)
 
 ### 11. 优先队列应用
 
 [查看本题解](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/solution/gong-shui-san-xie-yi-ti-shuang-jie-po-su-7okx/)
 
-### 大量数据的处理
+### 12. 大量数据的处理
+
+[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/1.%20Algorithm/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md)
 
