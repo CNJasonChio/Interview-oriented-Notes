@@ -1,22 +1,22 @@
 # 面试经历
-
 ## 目录 or TODO
-
-- [x] 1. 百度
-- [x] 2. 滴滴
-- [x] 3. 广发银行
-- [x] 4. 阿里巴巴
-- [x] 5. 华为
-- [x] 6. 京东
-- [x] 7. 农行武研所
-- [x] 8. 顺丰
-- [x] 9. 唯品会
-- [x] 10. 弦计划
-- [x] 11. 招行信用卡中心
-- [x] 12. 大华
-- [x] 13. 中兴
-- [x] 14. Soul
-
+- [x] 1.百度
+- [x] 2.滴滴
+- [x] 3.广发银行
+- [x] 4.阿里巴巴
+- [x] 5.华为
+- [x] 6.京东
+- [x] 7.农行武研所
+- [x] 8.顺丰
+- [x] 9.唯品会
+- [x] 10.弦计划
+- [x] 11.招行信用卡中心
+- [x] 12.大华
+- [x] 13.中兴
+- [x] 14.Soul
+- [x] 15.海康威视
+- [x] 16.携程
+- [x] 17.网易互娱
 ## 面试经历
 
 ### 1. 百度
@@ -77,14 +77,14 @@
 
 #### 14.1. [Jason-Soul-C++](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/6.%20Interview-experience/soul/Readme.md)
 
-### 海康威视
+### 15. 海康威视
 
-#### Jason-海康威视-应用软件开发工程师-C\C++\C#
+#### 15.1. [Jason-海康威视-应用软件开发工程师-C\C++\C#](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/6.%20Interview-experience/%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86/Readme.md)
 
-### 携程
+### 16. 携程
 
-#### Jason-携程-后端开发工程师
+#### 16.1. [Jason-携程-后端开发工程师](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/6.%20Interview-experience/%E6%90%BA%E7%A8%8B/Readme.md)
 
-### 网易互娱
+### 17. 网易互娱
 
-#### Jason-网易互娱-游戏开发工程师
+#### 17.1. [Jason-网易互娱-游戏开发工程师](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/6.%20Interview-experience/%E7%BD%91%E6%98%93%E4%BA%92%E5%A8%B1/Readme.md)
