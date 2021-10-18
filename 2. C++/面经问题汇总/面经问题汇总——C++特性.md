@@ -86,7 +86,7 @@ int main() {
 
 ### 6. 虚函数、纯虚函数、虚函数表以及它们的应用
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/16.%20%E5%B0%81%E8%A3%85%E3%80%81%E7%BB%A7%E6%89%BF%E3%80%81%E5%A4%9A%E6%80%81.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/16.%20%E5%B0%81%E8%A3%85%E3%80%81%E7%BB%A7%E6%89%BF%E3%80%81%E5%A4%9A%E6%80%81.md)
 
 ### 7. 为什么构造函数不能虚拟化
 
@@ -183,15 +183,15 @@ C++标准指明析构函数不能同时也不应该抛出异常。
 
 ### 10. 智能指针
 
-[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/5.%20%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88.md)
+[详细信息](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/5.%20%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88.md)
 
 ### 11. lambda表达式
 
-[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/9.%20C%2B%2B11%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7/15.%20lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+[详细信息](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/9.%20C%2B%2B11%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7/15.%20lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 
 ### 12. 类型转换
 
-[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/6.%20%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
+[详细信息](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/6.%20%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
 ### 13. 多态是如何实现
 
@@ -248,13 +248,13 @@ C++ 命名倾轧的函数是无法被 C 语言调用的。C++ 的函数必须是
 
 ### 17. 左值和右值
 
-[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/12.%20%E5%B7%A6%E5%80%BC%E5%92%8C%E5%8F%B3%E5%80%BC.md)
+[详细信息](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/12.%20%E5%B7%A6%E5%80%BC%E5%92%8C%E5%8F%B3%E5%80%BC.md)
 
 ### 18. C++11新特性有哪些
 
-[详细信息](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/17.%20C%2B%2B11%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md)
+[详细信息](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/17.%20C%2B%2B11%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md)
 
 ### 19. 深拷贝和浅拷贝
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/13.%20%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/13.%20%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
 

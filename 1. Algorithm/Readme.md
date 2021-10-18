@@ -16,7 +16,7 @@
 
 ### 1. 十大排序算法
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/1.%20%E5%8D%81%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/1.%20Algorithm/1.%20%E5%8D%81%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
 
 #### 1.1. 总结
 
@@ -38,7 +38,7 @@
 
 ### 2. 进制转换类题目
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/2.%20%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/1.%20Algorithm/2.%20%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.md)
 
 ### 3. 数组	
 
@@ -77,7 +77,7 @@
 
 ### 5. 二叉树
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/5.%20%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/1.%20Algorithm/5.%20%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
 #### 5.1. 遍历
 
@@ -116,23 +116,23 @@
 
 #### 7.2. 底层原理
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/%E5%93%88%E5%B8%8C%E8%A1%A8%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E3%80%81%E5%93%88%E5%B8%8C%E5%86%B2%E7%AA%81.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/%E5%93%88%E5%B8%8C%E8%A1%A8%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E3%80%81%E5%93%88%E5%B8%8C%E5%86%B2%E7%AA%81.md)
 
 #### 7.3. 哈希碰撞的解决方法
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/%E5%93%88%E5%B8%8C%E8%A1%A8%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E3%80%81%E5%93%88%E5%B8%8C%E5%86%B2%E7%AA%81.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/2.%20C%2B%2B/1.%20%E9%9D%A2%E7%BB%8F%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/%E5%93%88%E5%B8%8C%E8%A1%A8%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E3%80%81%E5%93%88%E5%B8%8C%E5%86%B2%E7%AA%81.md)
 
 ### 8.  摩尔投票算法
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/8.%20%E6%91%A9%E5%B0%94%E6%8A%95%E7%A5%A8%E7%AE%97%E6%B3%95.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/1.%20Algorithm/8.%20%E6%91%A9%E5%B0%94%E6%8A%95%E7%A5%A8%E7%AE%97%E6%B3%95.md)
 
 ### 9. 前缀和
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/master/1.%20Algorithm/10.%20%E5%89%8D%E7%BC%80%E5%92%8C.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/master/1.%20Algorithm/10.%20%E5%89%8D%E7%BC%80%E5%92%8C.md)
 
 ### 10. Top K 问题
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/1.%20Algorithm/9.%20Top%20K%20%E9%97%AE%E9%A2%98.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/jason_dev/1.%20Algorithm/9.%20Top%20K%20%E9%97%AE%E9%A2%98.md)
 
 ### 11. 优先队列应用
 
@@ -140,5 +140,5 @@
 
 ### 12. 大量数据的处理
 
-[详细内容](https://github.com/CNJasonChio/Interview-oriented-Notes/blob/jason_dev/1.%20Algorithm/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md)
+[详细内容](https://github.com/jasonchio-cn/Interview-oriented-Notes/blob/jason_dev/1.%20Algorithm/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md)
 
